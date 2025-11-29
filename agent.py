@@ -39,7 +39,7 @@ TOOLS = [
 # LLM INIT
 # -------------------------------------------------
 rate_limiter = InMemoryRateLimiter(
-    requests_per_second=4 / 60,
+    requests_per_second=7 / 60,
     check_every_n_seconds=1,
     max_bucket_size=4
 )
@@ -231,5 +231,6 @@ def run_agent(url: str):
         {"messages": initial_messages},
         config={"recursion_limit": RECURSION_LIMIT}
     )
+
 
     print("Tasks completed successfully!")
