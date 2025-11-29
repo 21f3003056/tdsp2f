@@ -111,7 +111,7 @@ LLM-Analysis-TDS-Project-2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2.git
+git clone https://github.com/21f3003056/tdsp2f
 cd LLM-Analysis-TDS-Project-2
 ```
 
@@ -384,8 +384,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Sai Vijay Ragav 
+**Author**: Abdullah Bin Mohammed 
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/saivijayragav/LLM-Analysis-TDS-Project-2).
+
